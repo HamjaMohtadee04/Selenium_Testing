@@ -1,0 +1,15 @@
+{
+  "name": "selenium_testing",
+  "version": "1.0.0",
+  "description": "selenium web driver automation testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamja",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.32.0"
+  }
+}
